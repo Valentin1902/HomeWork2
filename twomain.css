@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.end_paragraf{
+    background-color: rgba(216, 218, 218, 0.932);
+}
+.colortext {
+    color:brown;
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.head{
+    padding-left: 1.7cm;
+    color: brown;
+}
+.title{
+padding-left: 2.5cm;
+color: brown;
+}
+.doctype_html{
+padding-left: 1cm;
+color: brown;
+}
+.html{
+padding-left: 1cm;
+color: brown;
+}
+.title2{
+color: brown;
+}
+.head2{
+color: brown;
+padding-left: 3cm;
+}
+.body{
+color: brown;
+padding-left: 1.7cm;
+}
+.p{
+color: brown;
+padding-left: 2.5cm;
+}
+.p2{
+color: brown;
+
+}
+.endend_paragraf{
+color: rgb(6, 156, 158);
+background-color: rgba(216, 218, 218, 0.685);
+}
+.headp{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.HTMLp{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.intro{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.Landing{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.links{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+.Structuretext{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
+body{
+    background-color: rgba(238, 238, 233, 0.822);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    color: rgb(6, 156, 158);
+    background-color: rgba(216, 218, 218, 0.685);
+}
